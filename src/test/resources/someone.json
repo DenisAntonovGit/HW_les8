@@ -1,0 +1,10 @@
+{
+  "firstName": "Sammy",
+  "lastName": "Shark",
+  "gender": "male",
+  "age": 20,
+  "socialmedia": [
+    { "web": "facebook",
+      "nickname": "SammyShark" }
+  ]
+}
